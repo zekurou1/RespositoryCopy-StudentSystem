@@ -1,0 +1,20 @@
+-- ============================================================
+-- Student Information System - PostgreSQL JDBC Driver
+-- ============================================================
+-- TODO: Place the PostgreSQL JDBC driver JAR file here
+--
+-- Download from: https://jdbc.postgresql.org/download.html
+-- Required version: postgresql-42.x.x.jar
+--
+-- This JAR needs to be added to:
+-- - Project classpath for compilation
+-- - Project classpath for runtime execution
+--
+-- Filename format: postgresql-*.jar
+-- Example: postgresql-42.7.1.jar
+--
+-- Instructions:
+-- 1. Download the JDBC driver JAR from the link above
+-- 2. Place it in this directory (lib/)
+-- 3. Add to IDE project classpath or build configuration
+-- 4. If using command line: javac -cp "lib/postgresql-*.jar" ...
